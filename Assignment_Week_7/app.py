@@ -110,6 +110,6 @@ if st.button("🔮 Predict Churn Risk") and 'input_data' in locals():
 
 # Footer
 
-st.caption("||  CELEBAL SUMMER INternship CT_CSI_DS_13  Task  ||")
+st.caption("||  Celebal Summer Itnernship CT_CSI_DS_13 Week 7 Task  ||")
 st.markdown("---")
 st.caption("Yashwanth sai kasarabada || All rights reserved")
