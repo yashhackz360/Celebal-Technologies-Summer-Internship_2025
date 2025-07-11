@@ -98,9 +98,6 @@ Welcome to my week-wise internship submissions for the **Celebal Technologies Su
 📚 Dataset:  
 - [Kaggle – Loan Approval Prediction](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction?select=Training+Dataset.csv)
 
-📷 Screenshot of the UI:  
-![Chatbot UI](./Assignment_Week_8/ui.png)
-
 ---
 
 ## 🏁 [Final Project](./Final_Project)
@@ -122,8 +119,3 @@ Welcome to my week-wise internship submissions for the **Celebal Technologies Su
 
 ---
 
-
-
----
-
-> 📌 This repository showcases my learning journey through structured weekly challenges, hands-on coding, and real-world ML deployment. Feel free to explore each week for detailed notebooks, source code, and outputs!
