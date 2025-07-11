@@ -1,4 +1,4 @@
-# 🎓 Celebal Technologies Summer Internship 2025
+#  Celebal Technologies Summer Internship 2025
 Domain    : Data Science
 StudentId : CT_CSI_DS_13
 
