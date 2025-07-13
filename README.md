@@ -104,7 +104,7 @@ Welcome to my week-wise internship submissions for the **Celebal Technologies Su
 
 **Title**: House Price Prediction (Full Pipeline)  
 - Integrated end-to-end ML workflow:
-  - EDA → Preprocessing → Model training → Evaluation → Streamlit app  
+  - EDA → Preprocessing → Model training → Evaluation   
 - Used XGBoost, Linear Regression, and feature selection.
 
 ---
